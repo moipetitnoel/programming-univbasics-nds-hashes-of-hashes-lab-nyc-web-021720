@@ -38,6 +38,6 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
 
   
-  base_name = {PORTION_1[sub_category][sub_category][label] => PORTION_2}
+  base_name = {PORTION_1 => PORTION_2}
   
 end
